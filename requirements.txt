@@ -1,0 +1,6 @@
+apache-airflow==2.7.1
+requests
+pandas
+psycopg2-binary
+dvc
+dvc-git
